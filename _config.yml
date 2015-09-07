@@ -1,0 +1,42 @@
+name: Morses
+description: Blog about utopies and awsomness
+meta_description: "Morses, Tech & Socials stuff"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: true
+disqus_shortname: 'morses'
+
+# Details for the RSS feed generator
+url:            'http://your-blog-url.example.com'
+author:         'Morses'
+authorTwitter:  '@dsomers'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
