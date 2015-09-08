@@ -107,6 +107,17 @@ h2 {
 
 }
 
+.profile ul {
+	margin-top: 10px;
+}
+
+.profile li {
+	font-size: 20px;
+	display: inline;
+	list-style: none;
+	margin: 10px;
+}
+
 nav.main-nav {
 	padding: 20px 20px 0;
 
@@ -151,9 +162,8 @@ nav.main-nav a.cta {
 
 .home #avatar {
 	float: right;
-	width: 40px;
 	height: 40px;
-	border-radius: 50%;
+	width: auto;
 }
 
 /* Typography */
@@ -578,12 +588,10 @@ h2.month {
 
 #post-meta img.avatar {
   height: 36px;
-  width: 36px;
+  width: auto;
   float: left;
-  border-radius: 50%;
   margin-top: 3px;
   margin-right: 20px;
-  box-shadow: 0 0 0 3px #fff, 0 0 0 4px #eee;
 }
 
 #post-list.archive.readmore h3{
