@@ -4,7 +4,6 @@ meta_description: "Morses: Tech & Socials stuff"
 
 aboutPage: true
 
-source: ./_site
 markdown: redcarpet
 highlighter: pygments
 
