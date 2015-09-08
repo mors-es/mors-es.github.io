@@ -18,9 +18,9 @@ disqus_shortname: 'morses'
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
 author:         'Morses'
-authorTwitter:  '@sdorian'
+authorTwitter:  '@mors_es'
 authorGitHub: 'mors-es'
-authorInstuctables: 'sdorian1'
+authorInstuctables: 'mors_es'
 
 permalink:       /:year/:title/
 
