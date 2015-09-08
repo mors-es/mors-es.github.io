@@ -14,10 +14,13 @@ google_analytics: 'UA-XXXXXXXX-X'
 disqus: true
 disqus_shortname: 'morses'
 
+
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
 author:         'Morses'
-authorTwitter:  '@dsomers'
+authorTwitter:  '@sdorian'
+authorGitHub: 'mors-es'
+authorInstuctables: 'sdorian1'
 
 permalink:       /:year/:title/
 
