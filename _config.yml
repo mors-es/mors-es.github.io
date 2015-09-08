@@ -1,9 +1,10 @@
-name: Morses: Tech & Socials stuff
+name: 'Morses: Tech & Socials stuff'
 description: Blog about utopies and awesomness
 meta_description: "Morses: Tech & Socials stuff"
 
 aboutPage: true
 
+source: ./_site
 markdown: redcarpet
 highlighter: pygments
 
