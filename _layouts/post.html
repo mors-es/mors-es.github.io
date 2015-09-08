@@ -6,12 +6,18 @@ archive: true
 <article class="post">
     <header>
         <h1>{{ page.title }}</h1>
+        <ul class="inline-list">
+            {% for tag in page.tags %}
+                <li> {{ tag }}
+                </li>
+            {% endfor %}
+        </ul>
         <h2 class="headline">{{ page.date | date:"%B %-d, %Y" }}</h2>
-        <a href="https://github.com/mors-es/mors-es/blob/master/_posts/{{ page.path }}"><h4>Edit on GitHub <i class="fa fa-github"></i></h4>
-        </a>
     </header>
     <section id="post-body">
         {{content}}
+        <a href="https://github.com/mors-es/mors-es/blob/master/_posts/{{ page.path }}"><h4>Edit on GitHub <i class="fa fa-github"></i></h4>
+        </a>
     </section>
 </article>
 <footer id="post-meta" class="clearfix">

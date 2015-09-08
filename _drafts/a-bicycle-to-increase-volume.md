@@ -1,7 +1,11 @@
 ---
-title:  "A Draft Post"
-description: Work in progress
+title:  "A bicycle to increase volume"
+description: When the party is stands for sports
 ## date: add a date when publishing
+tags:
+  - Adruino
+  - Bike
+  - AppleScript
 ---
 
 Drafts are posts without a date. They’re posts you’re still working on and don’t want to publish yet. To get up and running with drafts, check the _drafts folder in the site’s root.
