@@ -5,6 +5,7 @@ date: 2015-09-09 16:18:00
 tags:
   - Workshop
   - GitHub
+path: 2015-09-09-git-for-social-entrepreneur.md
 ---
 
 
