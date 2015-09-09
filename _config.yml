@@ -9,14 +9,14 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://mors-es.github.io'
+google_analytics: 'UA-67365635-1'
 disqus: true
 disqus_shortname: 'morses'
 
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
+url:            'http://mors-es.github.io'
 author:         'Morses'
 authorTwitter:  '@mors_es'
 authorGitHub: 'mors-es'
