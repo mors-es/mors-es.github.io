@@ -5,6 +5,7 @@ description: "Tutorial: How your reader can help your blog"
 tags:
   - GitHub
   - Tutorial
+## path: add path
 ---
 
 
