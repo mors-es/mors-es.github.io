@@ -154,6 +154,12 @@ nav.main-nav a.cta {
   padding: 60px 40px 100px 40px;
 }
 
+#wrapper.projects {
+	  max-width: 600px;
+	  margin: 0 auto;
+	  padding: 60px 40px 100px 40px;
+}
+
 #wrapper.home {
 	max-width: 600px;
 	margin: 0 auto;
@@ -660,4 +666,71 @@ h2.month {
 	display: inline;
 	list-style: none;
 	margin: 10px;
+}
+
+#thumbnails {
+	margin: 0 auto;
+	margin-top: 60px;
+	text-align: center;
+}
+
+#thumbnails a {
+	width: 49%;
+	float: left;
+	position: relative;
+}
+
+#thumbnails a {
+		margin-right: 2%;
+		margin-top: 2%;
+}
+
+#thumbnails a:nth-child(1), #thumbnails a:nth-child(2) {
+		margin-top: 0;
+}
+
+#thumbnails a:nth-child(2n) {
+	margin-right: 0;
+}
+
+#thumbnails a,#thumbnails a span {
+	-webkit-transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	-ms-transition: all 0.2s ease;
+	-o-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+
+#thumbnails a img {
+	display: block;
+	background: #fff;
+	width: 100%;
+	height: auto;
+}
+
+#thumbnails a span {
+	color: #999;
+	display: inline-block;
+	font-size: 15px;
+	font-weight: 400;
+	margin: 20px 0;
+}
+
+#thumbnails a:hover {
+	opacity: .85;
+}
+
+#thumbnails a:hover span {
+	opacity: 1;
+	visibility: visible;
+}
+
+#wrapper-projects h1 {
+    display: inline-block;
+    line-height: 100%;
+    color: #222;
+    font-weight: 500;
+    font-size: 19px;
+    margin: 0;
+    padding-bottom: 20px;
 }

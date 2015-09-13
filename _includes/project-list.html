@@ -1,0 +1,12 @@
+<section id="wrapper-projects">
+  <header id="header">
+    <h1>Projects</h1>
+  </header>
+  <section id="thumbnails" class="clearfix">
+    {% for project in site.data.projects %}
+      <a href='{{ project.path }}'>
+        <img width="300" height="300" src="{{ site.baseurl }}assets/images/projects/{{ project.thumbnail }}"/>
+        <span>{{ project.name }}</span>
+      </a>
+    {% endfor %}
+</section>

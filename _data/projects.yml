@@ -1,0 +1,7 @@
+- name: Sound-Bike
+  path: /sound-bike
+  thumbnail: sound-bike.gif
+
+- name: Coocook
+  path: http://www.coocook.be
+  thumbnail: coocook.png
