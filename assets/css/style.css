@@ -734,3 +734,44 @@ h2.month {
     margin: 0;
     padding-bottom: 20px;
 }
+
+/*code markdown*/
+
+h1 tt, h1 code {
+  font-size: inherit; }
+
+h2 tt, h2 code {
+  font-size: inherit; }
+
+h3 tt, h3 code {
+  font-size: inherit; }
+
+h4 tt, h4 code {
+  font-size: inherit; }
+
+h5 tt, h5 code {
+  font-size: inherit; }
+
+h6 tt, h6 code {
+  font-size: inherit; }
+
+code, tt {
+  margin: 0 2px;
+	padding: 6px 10px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+/*
+pre {
+	  background-color: #f8f8f8;
+	  border: 1px solid #cccccc;
+	  font-size: 13px;
+	  line-height: 19px;
+	  overflow: auto;
+	  padding: 6px 10px;
+	  border-radius: 3px; }
+	  pre code, pre tt {
+	    background-color: transparent;
+	    border: none; }
+/**/
