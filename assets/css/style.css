@@ -774,4 +774,33 @@ pre {
 	  pre code, pre tt {
 	    background-color: transparent;
 	    border: none; }
-/**/
+/*MUUT*/
+
+.m-button, .muut button {
+	background-color: #5badf0;
+	border-radius: 3px;
+}
+
+.m-page a {
+    color: #5badf0;
+}
+.m-page a:hover {
+    color: #5badf0;
+}
+
+.m-focused .m-postinput {
+    box-shadow: 0 0 .2em #5badf0 inset;
+    border-color: #5badf0;
+    min-height: 3.6em;
+}
+.m-input:focus, .m-input-wrap:focus, .m-postinput:focus {
+    border-color: #5badf0;
+}
+
+.m-face {
+	display: none;
+}
+
+.m-icon {
+	display: none;
+}
