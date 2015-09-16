@@ -1,14 +1,14 @@
 ---
 title:  "Correction of (spelling) mistakes with GitHub"
-description: "Tutorial: How your reader can help your blog"
-## date: add a date when publishing
+description: "Tutorial: How your readers can help your blog/website"
+date: 2015-09-16 14:18:00
 tags:
   - GitHub
   - Tutorial
-## path: add path
+path: 2015-09-16-correction-of-spelling-errors-with-github.md
 ---
 
-Here we come, my first tutorial <i class="fa fa-smile-o"></i>. This blog is a sharing place, so I want let edit the content by anyone. And because English is not my mother tongue, I'll probably let sometime some spelling errors on the text. Here I explain how you can help me to correct these errors. For the people who already know Git and GitHub it'll be quite easy, for the others, let's discover the world of *social coding*.
+Here we come, my first tutorial <i class="fa fa-smile-o"></i>. This blog is a sharing place, so I want let anyone edit the blog content. And because English is not my mother tongue, I'll probably let sometime some spelling errors on the text. Here, I explain how you can help me to correct these errors. For the people who already know Git and GitHub it'll be quite easy, for the others, let's discover the world of *social coding*.
 
 ## 1. Create a GitHub account
 

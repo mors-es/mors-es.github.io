@@ -658,14 +658,20 @@ h2.month {
 
 /*Other Class*/
 
-.inline-list ul {
+.tags {
 	padding-bottom: 30px;
 }
 
-.inline-list li {
+.tags li {
 	display: inline;
 	list-style: none;
+	color: white;
+	font-size: 13px;
 	margin: 10px;
+  padding: 6px 10px;
+	background-color: #4fafed;
+	border-radius: 3px;
+
 }
 
 #thumbnails {

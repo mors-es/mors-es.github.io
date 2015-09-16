@@ -1,6 +1,6 @@
 ---
 title:  "A bicycle to increase volume"
-description: When the party is stands for sports
+description: When the party stands for sports
 ## date: add a date when publishing
 tags:
   - Tutorial
@@ -10,7 +10,7 @@ tags:
 ## path: add path
 ---
 
-I'd discoved Arduino and all the makers's world with this project. The idea was at first to hack an *exercise bike* to control the volume of the music. (It was for a theme-based party: blackout ).
+I've discovered Arduino and all the makers's world with this project. The idea was at first to hack an *exercise bike* to control the volume of the music. (It was for a theme-based party: blackout ).
 
 In the original project I'd maked it with a dynamo and read the signal with the Arduino. Here I explain how to make it with a bike speedometer (in fact, only the sensor and the magnet). This tutorial work only with a Mac, but if any people want to make a version compatible with Linux or Windows, <a href="https://github.com/mors-es/sound-bike/fork">fork</a> the project on GitHub, it's on MIT licence ;)
 
