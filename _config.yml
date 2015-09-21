@@ -5,6 +5,9 @@ meta_description: "Morses: Tech & Socials stuff"
 aboutPage: true
 
 markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
+
 highlighter: pygments
 
 paginate: 20
