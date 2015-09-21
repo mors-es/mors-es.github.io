@@ -9,7 +9,7 @@ path: 2015-09-21-pendant-ce-temps-la.md
 image: /assets/images/posts/poc21.jpg
 ---
 
-Mon esprit est entrainé à voir le côté positif de chaque personne. Naïvement, je pense que les individus se comportent mal par manque de recul, coincés dans leur routine quotidienne, confortés par la maxime : "on a toujours fait comme ça".
+Mon esprit est entrainé à voir le côté positif de chaque personne. Naïvement, je pense que les individus se comportent mal par manque de recul, coincés dans leur routine quotidienne, confortés par la maxime: "on a toujours fait comme ça".
 
 Ce week-end avait lieu l'exposition de la [POC21](http://www.poc21.cc), un endroit où durant 5 semaines des personnes se sont demandé si "on ne pouvait pas faire autrement". Organisation ambitieuse de deux associations [OuiShare](http://www.ouishare.net) et [OpenState](http://www.openstate.cc).
 
