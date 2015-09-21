@@ -6,6 +6,7 @@ tags:
   - GitHub
   - Tutorial
 path: 2015-09-16-correction-of-spelling-errors-with-github.md
+image: /assets/images/posts/blog-github.png
 ---
 
 Here we come, my first tutorial <i class="fa fa-smile-o"></i>. This blog is a sharing place, so I want to let anyone edit the blog content. And because English is not my mother tongue, I'll probably make some spelling errors in the text. Here, I explain how you can help me correct these errors. For the people who already know Git and GitHub it'll be quite easy, for the others, let's discover the world of *social coding*.
