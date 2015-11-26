@@ -1,25 +1,29 @@
 ---
 title:  "AngularJS: folder-by-features"
 description: Organise yours files by components
-## date: add a date when publishing
+date: 2015-11-26 14:15:00
 tags:
   - AngularJS
   - JohnPapa
   - Atom
   - files-icon
-## path: add path
+path: 2015-11-26-folder-by-features.md
 image: /assets/images/posts/ng-folders.png
 ---
 
-Four months ago, I've started to learn coding. May be later I'll make an article about my journey, but for now, I just wanted to share a little trick for all the developer who code with the awesome AngularJS framework and with the [Atom](http://atom.io) editor. I'm working as a front-end developer in a Belgian startup called [Sortlist](http://www.sortlist.com) and last week I've to refactoring the entire files's structure of their Angular App. I choose to follow the [JohnPapa's recommendation](https://github.com/johnpapa/angular-styleguide). I recommended to check all of his advices and the [posts](http://johnpapa.net/angular-app-structuring-guidelines/) on his blog, it's super clear and well explained.
+Four months ago, I've started to learn to code. Maybe later I'll make an article about my journey, but for now, I just wanted to share a little trick for all the developer who code with the awesome AngularJS framework and with the [Atom](http://atom.io) editor. I'm working as a front-end developer in a Belgian startup and last week I've to refactor the entire files structure of their Angular App. I choose to follow the [JohnPapa's recommendation](https://github.com/johnpapa/angular-styleguide). I recommended to check all of his advice and the [posts](http://johnpapa.net/angular-app-structuring-guidelines/) on his blog, it's super clear and well explained.
 
-When you start to use his syntax (`name-of-the-file.type.extension`) and his folder's structure  (view next to his controller), it's much more easy to work on a new feature. But some time, you can't identify directly the right file. To helping you, you can install a cool package called [files-icon](https://atom.io/packages/file-icons). Since the package include all the icons from [FontAwesome](http://fortawesome.github.io/Font-Awesome/), you can parameter your own configuration. Here how it looks.
+When you start to use his syntax (`name-of-the-file.type.extension`) and his folder's structure  (view next to his controller), it's much more easy to work on a new feature. But sometimes, you can't identify directly the right file. To helping you, you can install a cool package called [files-icon](https://atom.io/packages/file-icons). Since the package include all the icons from [FontAwesome](http://fortawesome.github.io/Font-Awesome/), you can parameter your own configuration. Here how it looks.
 
 ![folder-by-features](/assets/images/posts/ng-folders.png)
 
+The must, it's when you have a lot of tabs opened and you have to quickly find the right file :-).
+
+![folder-by-features](/assets/images/posts/tab-folders.png)
+
 > Some of the icons ( `.factory-icon` ) come from the last update of FontAwesome and are not yet compatible with the package. I made a pull request in their repo to use them, meanwhile you can update manually in the package's path ( *resources > fonts > fontawesome-webfont.woff* ).
 
-Here is the *CSS* configuration we use now. You have to copy-past it in your Stylesheet in Atom (on OS X -> menu: *Atom > Open Your Stylesheet*).
+Here is the *CSS* configuration we use now. You have to copy-paste it in your Stylesheet in Atom (on OS X -> menu: *Atom > Open Your Stylesheet*).
 
 ```css
 // YOUR-APP-Angular config
