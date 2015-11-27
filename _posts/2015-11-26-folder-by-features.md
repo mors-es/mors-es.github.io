@@ -31,7 +31,6 @@ Here is the *CSS* configuration we use now. You have to copy-paste it in your St
 @import "packages/file-icons/styles/colors"; // to use the colours
 @import "packages/file-icons/styles/icons";  // to use the defined icons
 @import "packages/file-icons/styles/items";
-@import "packages/file-icons/styles/items";
 
 .factory-icon   { .fa; content: "\f275"; }
 .ctrl-icon      { .fa; content: "\f11b"; }
