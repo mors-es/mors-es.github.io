@@ -1,6 +1,6 @@
 ---
 title:  "AngularJS: folder-by-features"
-description: Organise yours files by components
+description: Organise your files by components
 date: 2015-11-26 14:15:00
 tags:
   - AngularJS
