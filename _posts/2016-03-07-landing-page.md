@@ -6,22 +6,22 @@ tags:
   - Growth hacking
   - Metrics
   - Tutorial
-## path: add path
+path: 2016-03-07-my-first-post.md
 ---
 
-https://www.formstack.com/
-https://app.instapage.com/
-https://app.kickofflabs.com
-
+**POST NOT FINISHED**
 This is a tutorial for very beginners in web development. Just to show that it's easy to setup a first website and put it on the internet.
 
+## Buy a domain name
+
+[OVH](http://ovh.com)
 
 ## Setup Github
 
 In this tutorial we'll use [Github](htt://www.github.com) as a free hosting service (nice no ? :) ). For that you'll have to create an account. If you're many on the project, I advice you to create an organization with the name of your project (follow the steps [here](https://help.github.com/articles/creating-a-new-organization-from-scratch/))
 Verify your email!
 
-## Find a nice boostrap template
+## Find a nice bootstrap template
 
 Because we're lazy or we don't know how to code, we'll download a free boostrap template. You can find some nice exemple in  [StartBootstrap](http://startbootstrap.com/template-categories/landing-pages/). Once you have find one you love, click on **View Source on Github**. For this tuto, I choose the template *creative*. You'll arrive on the *repository* where you can see all the files of the website.
 
@@ -44,12 +44,22 @@ We'll rename the repository, for that go to the tab **Settings**. There you can 
 
 ### title
 
-### background
+### img
 
 ### modal
 
+[Boostrap](http://getbootstrap.com)
+
 ## MailChimp
+
+[MailChimp](http://mailchimp.com)
 
 ## Google analytics
 
-##
+[Google analytics](http://google.com/analytics)
+
+## Some links
+
+https://www.formstack.com/
+https://app.instapage.com/
+https://app.kickofflabs.com
