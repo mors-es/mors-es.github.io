@@ -5,7 +5,7 @@ Hello to the repository of the Morses's blog. Here you can ask for some modifica
 
 
 
-### About the theme
+### About the theme 1
 
 This blog is a modification of the Kactus theme for Jekyll
 
