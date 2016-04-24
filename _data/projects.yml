@@ -5,3 +5,7 @@
 - name: Coocook
   path: http://www.coocook.be
   thumbnail: coocook.png
+
+- name: Les Ateliers Morses
+  path: http://www.mors.es/les-ateliers-morses
+  thumbnail: ateliers.jpg
