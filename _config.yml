@@ -1,50 +1,49 @@
+---
+title: Mors Es.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: drafts
+  values:
+    layout: post
 name: 'Morses: Tech & Socials stuff'
-description: 'Blog about ideas, utopies and awesomeness'
-meta_description: "Morses: Tech & Socials stuff"
-
+description: Blog about ideas, utopies and awesomeness
+meta_description: 'Morses: Tech & Socials stuff'
 aboutPage: true
-
 markdown: redcarpet
 redcarpet:
-  extensions: ["strikethrough"]
-
+  extensions:
+  - strikethrough
 highlighter: pygments
-
 paginate: 20
-baseurl: /
-domain_name: 'http://www.mors.es'
-google_analytics: 'UA-67365635-1'
+baseurl: "/"
+domain_name: http://www.mors.es
+google_analytics: UA-67365635-1
 disqus: true
-disqus_shortname: 'morses'
-
-
-# Details for the RSS feed generator
-url:            'http://www.mors.es'
-author:         'Morses'
-authorTwitter:  'mors_es'
-authorGitHub: 'mors-es'
-authorInstuctables: 'mors_es'
-authorSlideShare: 'mors-es'
-authorFacebook: 'morsesio'
-
-permalink:       /:year/:title/
-
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+disqus_shortname: morses
+url: http://www.mors.es
+author: Morses
+authorTwitter: mors_es
+authorGitHub: mors-es
+authorInstuctables: mors_es
+authorSlideShare: mors-es
+authorFacebook: morsesio
+permalink: "/:year/:title/"

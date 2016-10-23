@@ -1,12 +1,12 @@
 ---
-title:  Pendant ce temps là... (POC21)
-description: Quand les médias oublient le côté positif
-date: 2015-09-21 15:15:00
+title: Pendant ce temps là... (POC21)
+date: 2015-09-21 15:15:00 Z
 tags:
-  - POC21
-  - ChangeMaker
+- POC21
+- ChangeMaker
+description: Quand les médias oublient le côté positif
 path: 2015-09-21-pendant-ce-temps-la.md
-image: /assets/images/posts/poc21.jpg
+image: "/assets/images/posts/poc21.jpg"
 ---
 
 Mon esprit est entrainé à voir le côté positif de chaque personne. Naïvement, je pense que les individus se comportent mal par manque de recul, coincés dans leur routine quotidienne, confortés par la maxime: "on a toujours fait comme ça".

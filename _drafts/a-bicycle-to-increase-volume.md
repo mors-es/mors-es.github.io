@@ -1,13 +1,12 @@
 ---
-title:  "A bicycle to increase volume"
-description: When the party stands for sports
-## date: add a date when publishing
+title: A bicycle to increase volume
+date: 2016-10-23 22:14:02.868000000 Z
 tags:
-  - Tutorial
-  - Arduino
-  - Makers
-  - AppleScript
-## path: add path
+- Tutorial
+- Arduino
+- Makers
+- AppleScript
+description: When the party stands for sports
 ---
 
 I've discovered Arduino and all the makers's world with this project. The idea was at first to hack an *exercise bike* to control the volume of the music. (It was for a theme-based party: blackout ).

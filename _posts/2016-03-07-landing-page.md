@@ -1,11 +1,11 @@
 ---
-title:  Build a website in 1h for less than $8/year
-description: Your first landing page on the web, with your custom domain name
-date: 2016-03-07 18:00:00
+title: Build a website in 1h for less than $8/year
+date: 2016-03-07 18:00:00 Z
 tags:
-  - Growth hacking
-  - Metrics
-  - Tutorial
+- Growth hacking
+- Metrics
+- Tutorial
+description: Your first landing page on the web, with your custom domain name
 path: 2016-03-07-my-first-post.md
 ---
 

@@ -1,13 +1,12 @@
 ---
-title:  "Git for social entrepreneur"
-description: Introduction of Social Coding for non-developers
-date: 2015-09-09 16:18:00
+title: Git for social entrepreneur
+date: 2015-09-09 16:18:00 Z
 tags:
-  - Workshop
-  - GitHub
+- Workshop
+- GitHub
+description: Introduction of Social Coding for non-developers
 path: 2015-09-09-git-for-social-entrepreneur.md
 ---
-
 
 I'll update this post later. I'm making a Workshop for non-developers to introduce the concept of **Repository Hosting Service**.
 

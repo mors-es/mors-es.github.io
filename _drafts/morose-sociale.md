@@ -1,11 +1,10 @@
 ---
-title:  Morose sociale
-description: Quand les médias ne montre que le côté negatif.
-## date: add a date when publishing
+title: Morose sociale
+date: 2016-10-23 22:14:02.972000000 Z
 tags:
-  - Feeling
-  - Changemaker
-## path: add path
+- Feeling
+- Changemaker
+description: Quand les médias ne montre que le côté negatif.
 ---
 
 Peut-être aie-je un problème, mais je n'arrive presque pas à voir la partie négative des gens. Naïvement, je pense que le monde est remplis de gens biens. Et malgré les nouvelles du moment, ce sentiment n'a jamais changé et j'espère sincèrement qu'il restera ad vitam. Mais si les gens sont tous des gens biens, pourquoi y-a-t-il tant de malheurs dans le monde ?

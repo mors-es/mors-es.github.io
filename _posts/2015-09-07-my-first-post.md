@@ -1,7 +1,7 @@
 ---
-title:  "My premier post"
-date:   2015-09-07 10:18:00
-description: "L'origine of everything"
+title: My premier post
+date: 2015-09-07 10:18:00 Z
+description: L'origine of everything
 path: 2015-09-07-my-first-post.md
 ---
 

@@ -1,13 +1,6 @@
 ---
-title:  WebApp - Part1: Design your idea
-description:
-## date: add a date when publishing
-tags:
-  - Lean
-  - Startup
-  - Web Application
-  - Mobile App
-## path: add path
+title: Web App Part1
+date: 2016-10-23 22:14:03.001000000 Z
 ---
 
 In 2011, I had the change to "fall" in the entrepreneurship world. Before that I never tough I could be one day an entrepreneur.a
