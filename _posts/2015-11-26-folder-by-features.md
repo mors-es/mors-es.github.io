@@ -7,7 +7,6 @@ tags:
 - Atom
 - files-icon
 description: Organise your files by components
-path: 2015-11-26-folder-by-features.md
 image: "/assets/images/posts/ng-folders.png"
 ---
 

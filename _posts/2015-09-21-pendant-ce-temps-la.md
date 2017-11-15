@@ -5,7 +5,6 @@ tags:
 - POC21
 - ChangeMaker
 description: Quand les médias oublient le côté positif
-path: 2015-09-21-pendant-ce-temps-la.md
 image: "/assets/images/posts/poc21.jpg"
 ---
 
@@ -23,7 +22,8 @@ On a pu y voir des hommes et des femmes déployer une énergie folle pour dével
 
 C'est ici que devraient intervenir les médias. C'est à eux de refléter le plus objectivement possible la société. N'y a-t-il pas plus de rencontres, d'heureuses naissances, de fêtes entre amis que de viols ou de meurtres ? Je ne dis pas qu’il faut taire les maux de notre société, mais que ces derniers sont bien trop présents dans nos journaux télévisés. La couverture de la POC21 en Belgique a été quasi inexistante, et ce malgré la présence de deux projets originaires du plat pays.
 
-> "On ne change jamais rien en combattant la réalité telle qu'elle est. Pour changer les choses, inventez un nouveau modèle qui rende le précédent obsolète" - Buckminster Fuller.
+> "On ne change jamais rien en combattant la réalité telle qu'elle est. Pour changer les choses, inventez un nouveau modèle qui rende le précédent obsolète." - 
+> **Buckminster Fuller**
 
 L'être humain a besoin d'être inspiré, qu'on lui montre l'exemple, qu’il puisse se rendre compte que le monde n'est pas «si» en crise que ça. Un grand merci à POC21, et à toutes les initiatives du genre nous montrant la voie avec le sourire. :-)
 

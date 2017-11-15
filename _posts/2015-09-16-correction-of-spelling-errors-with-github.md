@@ -5,7 +5,6 @@ tags:
 - GitHub
 - Tutorial
 description: 'Tutorial: How your readers can help your blog/website'
-path: 2015-09-16-correction-of-spelling-errors-with-github.md
 image: "/assets/images/posts/blog-github.png"
 ---
 

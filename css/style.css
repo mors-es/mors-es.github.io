@@ -294,6 +294,7 @@ p.small {
 }
 
 blockquote {
+	margin-bottom: 20px;
 	padding-left: 15px;
 	border-left: 3px solid #eee;
 }
@@ -386,7 +387,7 @@ img {
 Post List
 =========================================== */
 #post-list,#archive-list {
-	margin-top: 100px;
+	margin-top: 0px;
 }
 
 #post-list li,#archive-list li {

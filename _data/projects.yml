@@ -2,6 +2,10 @@
   path: /sound-bike
   thumbnail: sound-bike.gif
 
+- name: Open-Ideas
+  path: http://dorian.mors.es/open-ideas
+  thumbnail: open-ideas.png
+
 - name: Coocook
   path: http://www.coocook.be
   thumbnail: coocook.png

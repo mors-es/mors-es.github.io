@@ -46,4 +46,4 @@ authorGitHub: mors-es
 authorInstuctables: mors_es
 authorSlideShare: mors-es
 authorFacebook: morsesio
-permalink: "/:year/:title/"
+permalink: "/:title/"

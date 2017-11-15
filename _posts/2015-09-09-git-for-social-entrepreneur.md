@@ -5,7 +5,6 @@ tags:
 - Workshop
 - GitHub
 description: Introduction of Social Coding for non-developers
-path: 2015-09-09-git-for-social-entrepreneur.md
 ---
 
 I'll update this post later. I'm making a Workshop for non-developers to introduce the concept of **Repository Hosting Service**.

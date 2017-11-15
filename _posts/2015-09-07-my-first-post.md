@@ -2,7 +2,6 @@
 title: My premier post
 date: 2015-09-07 10:18:00 Z
 description: L'origine of everything
-path: 2015-09-07-my-first-post.md
 ---
 
 Voilà c'est enfin décidé, je commence le projet *Morses*. Enfin un endroit pour se vider le cerveau et partager toutes ses idées.

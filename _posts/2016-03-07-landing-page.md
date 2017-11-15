@@ -6,7 +6,6 @@ tags:
 - Metrics
 - Tutorial
 description: Your first landing page on the web, with your custom domain name
-path: 2016-03-07-my-first-post.md
 ---
 
 This is a tutorial for very beginners in web development. Just to show that it's easy to setup a first website and put it on the internet.
