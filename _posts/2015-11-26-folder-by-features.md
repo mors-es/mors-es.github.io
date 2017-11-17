@@ -24,14 +24,17 @@ The must, it's when you have a lot of tabs opened and you have to quickly find t
 
 Here is the *CSS* configuration we use now. You have to copy-paste it in your Stylesheet in Atom (on OS X -> menu: *Atom > Open Your Stylesheet*).
 
-```css
+```scss
 // YOUR-APP-Angular config
 
 @import "packages/file-icons/styles/colors"; // to use the colours
 @import "packages/file-icons/styles/icons";  // to use the defined icons
 @import "packages/file-icons/styles/items";
 
-.factory-icon   { .fa; content: "\f275"; }
+.factory-icon   {
+  .fa;
+  content: "\f275";
+}
 .ctrl-icon      { .fa; content: "\f11b"; }
 .view-icon      { .fa; content: "\f06e"; }
 .route-icon     { .fa; content: "\f018"; }

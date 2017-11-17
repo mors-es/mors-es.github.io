@@ -28,11 +28,7 @@ name: 'Morses: Tech & Socials stuff'
 description: Blog about ideas, utopies and awesomeness
 meta_description: 'Morses: Tech & Socials stuff'
 aboutPage: true
-markdown: redcarpet
-redcarpet:
-  extensions:
-  - strikethrough
-highlighter: pygments
+highlighter: rouge
 paginate: 20
 baseurl: "/"
 domain_name: http://www.mors.es
@@ -45,4 +41,4 @@ authorGitHub: mors-es
 authorInstuctables: mors_es
 authorSlideShare: mors-es
 authorFacebook: morsesio
-permalink: "/:title/"
+permalink: "/:year/:title/"

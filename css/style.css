@@ -313,7 +313,6 @@ pre	{
 	font-family:Menlo, Monaco, Courier;
 	white-space:pre;
 	/*border: 1px solid #ddd;*/
-	padding:20px;
 	background-color:#fdfdfd;
 	/*font-size:14px;*/
 	overflow:auto;
@@ -325,6 +324,10 @@ pre	{
 	  font-weight: 500;
 	color: #d0d4d7;
 
+}
+
+code {
+	padding: 20px;
 }
 
 table {
