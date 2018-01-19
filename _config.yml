@@ -28,7 +28,7 @@ name: 'Morses: Tech & Socials stuff'
 description: Blog about ideas, utopies and awesomeness
 meta_description: 'Morses: Tech & Socials stuff'
 aboutPage: true
-highlighter: rouge
+markdown: kramdown
 paginate: 20
 baseurl: "/"
 domain_name: http://www.mors.es
