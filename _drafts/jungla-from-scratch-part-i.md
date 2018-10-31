@@ -1,10 +1,10 @@
 ---
-title: "JUNGLA from scratch [1]: Origin"
+title: 'JUNGLA from scratch [1]: Origin'
 date: 2018-01-17 22:14:02.972000000 Z
 tags:
 - Startup
 - HowTo
-description: "How the startup project've started"
+description: How the startup project've started
 ---
 
 > This series of posts is an experimentation. I don't know _How to build a startup_. It's more a learning process, a documentation of all the steps we'll have to pass to test an idea.

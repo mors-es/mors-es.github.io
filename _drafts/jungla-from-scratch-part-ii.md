@@ -1,11 +1,11 @@
 ---
-title: "JUNGLA from scratch [2]: Scenarios"
+title: 'JUNGLA from scratch [2]: Scenarios'
 date: 2018-01-17 22:14:02.972000000 Z
 tags:
 - Startup
 - Mobile App
 - Design
-description: "Define the features of the product"
+description: Define the features of the product
 ---
 
 > This serie of posts is an experimentation. I don't know _How to build a startup_. It's more a learning process, a documentation of all the steps we'll have to pass to test an idea.

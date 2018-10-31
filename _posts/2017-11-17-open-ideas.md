@@ -5,7 +5,7 @@ tags:
 - Open Source
 - Ideas
 - Project
-description: "Share, change, document, hack, improve ideas"
+description: Share, change, document, hack, improve ideas
 image: "/assets/images/posts/open-ideas-post.png"
 ---
 
