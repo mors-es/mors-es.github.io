@@ -31,7 +31,7 @@ aboutPage: true
 markdown: kramdown
 paginate: 20
 baseurl: "/"
-domain_name: http://www.mors.es
+domain_name: https://www.mors.es
 google_analytics: UA-67365635-1
 disqus: true
 disqus_shortname: morses
