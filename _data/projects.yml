@@ -1,3 +1,11 @@
+- name: Maison en Pétales
+  path: /maison-petales
+  thumbnail: maison-petales.png
+
+- name: moskitOS
+  path: https://moskitos.org/
+  thumbnail: moskitos.jpg
+
 - name: Sound-Bike
   path: /sound-bike
   thumbnail: sound-bike.gif
@@ -5,11 +13,3 @@
 - name: Open-Ideas
   path: http://dorian.mors.es/open-ideas
   thumbnail: open-ideas.png
-
-- name: Coocook
-  path: http://www.coocook.be
-  thumbnail: coocook.png
-
-- name: Les Ateliers Morses
-  path: http://www.mors.es/les-ateliers-morses
-  thumbnail: ateliers.jpg
